@@ -1,0 +1,23 @@
+/* index.css */
+
+/* Global styles */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  text-align: center; /* Center the text */
+  background-color: black; /* Set black background */
+  color: white; /* Set white text color */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Additional styles for specific components or elements can be added here */
+
